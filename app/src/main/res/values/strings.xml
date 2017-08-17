@@ -1,0 +1,31 @@
+<resources>
+
+    <string name="app_name">Shop with us</string>
+    <string name="action_settings">Settings</string>
+    <string name="empty_text">Select song from below to play</string>
+    <string name="standard">Standard</string>
+    <string name="title_changelog">Change log</string>
+    <string name="changelog_close">Close</string>
+    <string name="action_hide">Hide Panel</string>
+    <string name="action_show">Show Panel</string>
+    <string name="action_anchor_enable">Enable Anchor Point</string>
+    <string name="action_anchor_disable">Disable Anchor Point</string>
+    <string name="idle">Idle</string>
+    <string name="crash_toast_text">Oops Crash Occurred</string>
+    <string name="offer_banner">"Shop for 200 to get $ 10 discount and shop for 300 to get $ 20 discount"</string>
+    <string name="checkout">CheckOut</string>
+    <string name="similar_product">You may also like</string>
+    <string name="slogan">Project</string>
+    <string name="email_developer_">Email Developer:</string>
+    <string name="personal_website_">Personal Website :</string>
+    <string name="site_hitesh">www.amazon.ca</string>
+    <string name="contact_number">Contact Number</string>
+    <string name="mob_num">1234567890</string>
+    <string name="lab_locations">Locations</string>
+    <string name="pune">Toronto</string>
+    <string name="address_value">175 Windmill, Brampton L6Y4P7</string>
+
+
+
+
+</resources>
